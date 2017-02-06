@@ -1,2 +1,5 @@
 # daily-algorithm
-Daily algorithm traning. This is from http://codingdojang.com/
+
+This is my daily coding training.
+
+Quiz that i push is getting to idea from http://codingdojang.com/
